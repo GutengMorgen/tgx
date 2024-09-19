@@ -6,9 +6,9 @@ Python Web App which indexes a telegram chat, channel or group and serves its fi
 - **Clone to local machine.**
 
 ```bash
-git clone https://github.com/odysseusmax/tg-index.git
+git clone https://github.com/GutengMorgen/tgx
 
-cd tg-index
+cd tgx
 ```
 
 - **Create and activate virtual environment.**
